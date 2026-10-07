@@ -1,0 +1,12 @@
+[
+    {
+      "serverId": 1,
+      "ip": "141.95.234.23",
+      "port": "1409",
+      "serverName": "MULTIRIUM #1",
+      "onlinePlayers": 0,
+      "maxPlayers": 1000,
+      "isAvailable": true,
+      "description": "Meu Servidor"
+    }
+]
